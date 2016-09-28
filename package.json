@@ -1,0 +1,25 @@
+{
+  "name": "WheresTheT",
+  "version": "0.3.2",
+  "description": "By Dillon Bostwick for Tufts Comp20",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",  
+    "express": "4.13.3",
+    "cors": "2.7.1",
+    "mongodb": "latest",
+    "unirest": "latest",
+    "body-parser": "latest",
+    "opbeat": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tuftsdev/comp20-dbostwick.git"
+  }
+}
