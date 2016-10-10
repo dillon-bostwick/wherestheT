@@ -19,3 +19,5 @@ localhost:5000/addvisitor   - (POST) will add a document containing a latlng to 
 localhost:5000/visitorlist  - see (in rough HTML) list of latlngs of all past visitors
 localhost:5000/redline.json - CORS enabled real-time data from the MBTA (still using the deprecated MBTA API)
 (OR corsenabledredline.heroku.com/redline.json)
+
+Check out more projects at dilloncb.com
