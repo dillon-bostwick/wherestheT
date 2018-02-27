@@ -16,4 +16,3 @@ localhost:5000/visitorlist  - see (in rough HTML) list of latlngs of all past vi
 localhost:5000/redline.json - CORS enabled real-time data from the MBTA (still using the deprecated MBTA API)
 (OR corsenabledredline.heroku.com/redline.json)
 
-[Check out more projects at my blog](http://dillonbostwick.org)
